@@ -18,4 +18,4 @@ Rstudio: Version(4.2.0)
 
 ### Output
 
-![plot](/Users/chintanpatel/Desktop/Plot.png)
+![plot](Plot.png)
