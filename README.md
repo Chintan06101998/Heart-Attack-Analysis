@@ -18,4 +18,20 @@ Rstudio: Version(4.2.0)
 
 ### Output
 
+## Corrplot
+![plot](cor.png)
+
+## Plot
 ![plot](Plot.png)
+
+## GGPLOT
+![ggplot](ggplot.png)
+
+## Barplot
+![ggplot](BarPlot.png)
+
+## Histogram
+![ggplot](Hist.png)
+
+## BoXplot
+![ggplot](box.png)
