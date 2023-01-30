@@ -19,7 +19,7 @@ Rstudio: Version(4.2.0)
 ### Output
 
 ## Corrplot
-![plot](cor.png)
+![plot](Cor.png)
 
 ## Plot
 ![plot](Plot.png)
