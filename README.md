@@ -5,6 +5,7 @@ Age, Sex, Blood pressure, cerebral palsy, trestbps,Fasting glucose, etc
 ## Getting Started
 
 R language: Version (4.2.2)
+Python
 Rstudio: Version(4.2.0)
 
 ### Prerequisites library
